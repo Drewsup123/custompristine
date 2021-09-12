@@ -748,3 +748,9 @@ button:focus {
       -webkit-transition: all 300ms;
       -o-transition: all 300ms;
       transition: all 300ms; }
+
+
+.showcase-image {
+  height: 380px;
+  width: auto;
+}
