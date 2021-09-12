@@ -519,11 +519,13 @@ button:focus {
         background: #fff;
         color: #3ecf8e; }
   .hero-area .intro-img {
-    padding: 180px 0 0px; }
+    padding: 180px 0 0px; 
+  }
     .hero-area .intro-img img {
       display: block;
-      height: auto;
-      max-width: 100%; }
+      height: 400px;
+      max-width: auto; 
+  }
 
 /* ==========================================================================
    About 
