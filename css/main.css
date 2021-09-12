@@ -756,3 +756,7 @@ button:focus {
   height: 380px;
   width: auto;
 }
+
+#contact {
+  padding-top: 230px;
+}
